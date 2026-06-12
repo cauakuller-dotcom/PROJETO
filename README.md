@@ -1,12 +1,12 @@
 # PROJETO<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-
-</body>
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Portfólio</title>
+    </head>
+    <body>
+        <h1>Isso é um título</h1>
+        <p>Isso é um parágrafo</p>
+        <img scr="html.png" alt="Logo do HTML 5">
+    </body>
 </html>
