@@ -6,67 +6,18 @@
     <title>Catiorros</title>
 </head>
 <body>
-   <h1>Cachorro</h1>
-   <p>Nesta página, você encontrará informações sobre as principais raças de cachorro, suas origens, personalidades, cuidados essenciais e curiosidades.</p>
-   <h2>Ranking das raças mais conhecidas</h2>
-   <p>1- Labrador Retriver
-      2- Golden Retriever
-      3- Pastor Alemão
-      4- Bulldog Francês
-      5- Poodle
-      6- Shih Tzu
-      7- Yorkshire Terrier
-      8- Beagle
-      9- Rottweiler
-      10- Dachshund (Salsicha)
-   </p> 
-   <h2>Ranking das raças menos conhecidas</h2>
-   <p>1- Whippet 
-      2- Keeshond
-      3- Nova Scotia Duck Tolling Retriever
-      4- Finnish Spitz
-      5- Schipperke
-      6- Eurasier
-      7- Tibetan Terrier
-      8- Manchester Terrier
-      9- Curly-Coated Retriever 
-      10- Belgian Laekenois
-   </p>
-   <h2>Alguma curiosidades</h2>
-   <p>🐶 O nariz de cada cachorro é único, assim como a impressão digital de um ser humano.
-    👂 Os cães conseguem ouvir sons em frequências muito mais altas do que as pessoas.
-    👃 O olfato de um cachorro pode ser dezenas de milhares de vezes mais sensível que o de um humano, dependendo da raça.
-    ❤️ Cães são animais muito sociais e costumam criar fortes laços com suas famílias.
-    😴 Em média, cachorros adultos dormem entre 12 e 14 horas por dia.
-    🐾 Os filhotes nascem sem enxergar nem ouvir. Eles começam a abrir os olhos por volta de 10 a 14 dias após o nascimento.
-    🦴 Abanar o rabo nem sempre significa felicidade. Dependendo da posição e da velocidade do movimento, pode indicar diferentes emoções.
-    🌡️ Os cães ajudam a regular a temperatura corporal principalmente pela respiração ofegante, já que suam muito pouco.
-    🏃 Alguns cães podem correr a velocidades superiores a 60 km/h, como o Greyhound.
-    🧠 Os cães são capazes de aprender dezenas ou até centenas de palavras e comandos, dependendo do treinamento.</p>
-    <h2>Você sabia?</h2>
-    <p>🐕 Existem mais de 300 raças de cães reconhecidas em diferentes organizações ao redor do mundo.
-        🦮 Alguns cães são treinados para detectar doenças, como diabetes e certos tipos de câncer, por meio do olfato.
-        🎾 Brincadeiras e exercícios físicos são essenciais para a saúde física e mental dos cães.
-        🏡 O cachorro é um dos primeiros animais domesticados pelo ser humano, há mais de 15 mil anos.
-        💖 A convivência com cães pode contribuir para reduzir o estresse e incentivar a prática de atividades físicas.</p>
-<h2>Essas são 5 das raças mais caras</h2>
-<p>Mastim Tibetano:
-    Preço médio: R$ 30.000 a mais de R$ 100.000.
-    Originário do Tibete, é uma raça rara, grande e muito valorizada por sua aparência imponente.
-    Samoieda:
-    Preço médio: R$ 15.000 a R$ 60.000.
-    Conhecido pelo pelo branco e pelo famoso "sorriso", é amigável e muito procurado.
-    Chow Chow:
-    Preço médio: R$ 8.000 a R$ 30.000.
-    Famoso pela língua azul-arroxeada e pela pelagem densa, exige cuidados especiais.
-    Lulu da Pomerânia:
-    Preço médio: R$ 10.000 a R$ 25.000.
-    Pequeno, inteligente e muito popular, especialmente entre quem busca um cão de companhia.
-    Buldogue Francês:
-    Preço médio: R$ 8.000 a R$ 20.000.
-    Uma das raças mais populares do mundo, com alto valor devido à grande procura e aos custos de reprodução.</p>
-    <h2>Essas são 5 das raças mais baratas </h2>
-
-
-</html>
-<body>
+    img src "" alt=""
+   <h1>𝖒𝖊𝖎𝖔 𝖆𝖒𝖇𝖎𝖊𝖓𝖙𝖊</h1>
+   <p>O meio ambiente é o conjunto de elementos físicos, químicos, biológicos e sociais que abrigam e mantêm a vida na Terra.</p>
+   <h2>𝕺 𝖖𝖚𝖊 𝖈𝖔𝖒𝖕𝖔̃𝖊 𝖔 𝖒𝖊𝖎𝖔 𝖆𝖒𝖇𝖎𝖊𝖓𝖙𝖊</h2>
+   <p>Elementos vivos (bióticos): Animais, plantas, fungos, microrganismos e os seres humanos.
+       Elementos não vivos (abióticos): Água, solo, ar, luz solar, rochas e minerais.
+       Dimensões sociais e econômicas: Cidades, infraestruturas, culturas e relações econômicas que moldam as esferas de convivência..</p>
+   <h1>𝕬 𝖎𝖒𝖕𝖔𝖗𝖙𝖆̂𝖓𝖈𝖎𝖆 𝖉𝖆 𝖕𝖗𝖊𝖘𝖊𝖗𝖛𝖆𝖈̧𝖆̃𝖔</h1>    
+   <P>Manutenção da vida: Fornece recursos essenciais como oxigênio, água limpa e alimentos para todas as espécies.
+       Equilíbrio climático: Florestas e oceanos regulam o clima global e atenuam eventos extremos.
+       Sustentabilidade: Práticas corretas garantem o bem-estar e a sobrevivência das gerações futuras sem esgotar os recursos do planeta.</P>
+<h1>𝖘𝖎𝖘𝖙𝖊𝖒𝖆 𝖌𝖑𝖔𝖇𝖆𝖑 </h1>
+<p>O meio ambiente é o sistema global complexo que sustenta a vida na Terra.
+     Ele é composto pela interação de elementos naturais (como água, ar, solo, plantas e animais) e elementos artificiais ou transformados (como cidades e infraestruturas), além das relações sociais e       culturais humanas.</p>
+    
