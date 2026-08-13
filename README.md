@@ -3,10 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Catiorros</title>
+    <title>meio ambiente</title>
 </head>
 <body>
-    img src "" alt=""
    <h1>𝖒𝖊𝖎𝖔 𝖆𝖒𝖇𝖎𝖊𝖓𝖙𝖊</h1>
    <p>O meio ambiente é o conjunto de elementos físicos, químicos, biológicos e sociais que abrigam e mantêm a vida na Terra.</p>
    <h2>𝕺 𝖖𝖚𝖊 𝖈𝖔𝖒𝖕𝖔̃𝖊 𝖔 𝖒𝖊𝖎𝖔 𝖆𝖒𝖇𝖎𝖊𝖓𝖙𝖊</h2>
