@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang= "pt-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -46,7 +46,7 @@
 <h1>𝖘𝖎𝖘𝖙𝖊𝖒𝖆 𝖌𝖑𝖔𝖇𝖆𝖑 </h1>
 <p>O meio ambiente é o sistema global complexo que sustenta a vida na Terra.
      Ele é composto pela interação de elementos naturais (como água, ar, solo, plantas e animais) e elementos artificiais ou transformados (como cidades e infraestruturas), 
-    além das relações sociais e       culturais humanas.</p>
+    além das relações sociais e culturais humanas.</p>
     <img src= "images.jpeg" alt="Montagem visual dividida em duas metades sustentadas por maos humanas. 
      O lado esquerdo exibe uma Terra arida e em chamas com ceu alaranjado;
      o lado direito mostra uma Terra azul e verde sob um céu ensolarado e paisagem próspera.
@@ -56,12 +56,16 @@
         <p> e quase 70% de sua superfície coberta por água, mas menos de 1% dessa água é doce e própria para consumo humano.</p>
         <button>✅<span>0</span></button>
         <button>❌<span>0</span></button>
-    </div>
-
-    </main>
+</main>
+</header>
 </body>
-</script>
+<script>
      const botao = document.querySelector("button");
-     botao class="addEvenListenner("click", botaoClicado);
- <script    
+     botao.addEvenListenner("click", botaoClicado);
+    function botaoClicado() {
+    let texto = botao.querySelector("span");
+    texto.textContent++;
+ }
+
+ </script>   
 </html>
